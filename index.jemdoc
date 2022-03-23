@@ -10,7 +10,20 @@
 I am a Computer Science Phd student (since 2017 Fall) at Northwestern University.
 
 == Publication
-See [https://dblp.org/pid/230/8111.html]
+
+*Algorithms for learning a mixture of linear classifiers.* ALT 2022 [Algorithms_for_learning_a_mixture_of_linear_classifiers.pdf pdf]
+
+Aidao Chen, Anindya De, Aravindan Vijayaraghavan
+
+*Learning a mixture of two subspaces over finite fields.* ALT 2021 [https://arxiv.org/abs/2010.02841 ArXiv]
+
+Aidao Chen, Anindya De, Aravindan Vijayaraghavan
+
+*Smoothed Analysis in Unsupervised Learning via Decoupling.* FOCS 2019 [https://arxiv.org/abs/1811.12361 ArXiv]
+
+Aditya Bhaskara, Aidao Chen, Aidan Perreault, Aravindan Vijayaraghavan
+
+(Also see [https://dblp.org/pid/230/8111.html])
 
 == Contact
 

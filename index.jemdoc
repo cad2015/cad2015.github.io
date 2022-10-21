@@ -1,5 +1,6 @@
 # jemdoc: menu{MENU}{index.html}
-= Aidao Chen [https://name-coach.com/aidao (pronunciation)]
+= Aidao Chen
+=== [https://name-coach.com/aidao (pronunciation)]
 
 ~~~
 {}{img_left}{portrait.jpg}{alt text}{193.5}{200}{index.html}
@@ -7,7 +8,7 @@
 ~~~
 
 == About me
-I am a Computer Science Phd student (since 2017 Fall) at Northwestern University.
+[AidaoChen_resume.pdf Resume]. I am a Computer Science Phd student (since 2017 Fall) at Northwestern University.
 
 == Publication
 
